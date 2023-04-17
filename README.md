@@ -1,3 +1,25 @@
+# SWEATER WEATHER README
+
+# COLOR PALATTES
+
+Green/Grey
+STROMBOLI #2E5E4E
+BON JOUR #DBD3D8
+CASCADE #93A7AA
+HIT GRAY #A7B5B9
+
+Autumn/red/gray
+QUICKSAND #BA9B8D
+BUCCANEER #6F323C
+FUSCOUS GRAY #585651
+IRONSTONE #814A38
+
+Soft Greens
+FINLANDIA #51624F
+HAMPTON #E6D5A9
+NORWAY #AFBEA2
+EDWARD #9CB4AC
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
