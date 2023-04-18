@@ -1,5 +1,29 @@
 # SWEATER WEATHER README
 
+# BIO
+
+How often do we check the weather to sort our outfit for the day? Is it too cold? Is it too hot?
+So many variables go into deciding what would be the appropriate attire for our maximum level of comfort.
+And while some of us may know what works best for our body, the weather is ever-changing, and difficult
+to infer from without much study. So we try to under-complicate things with a simple pass or fail result.  
+It takes less than 5 seconds to enter our home location on the web, so why spend more than that trying
+to decide if your favorite attire is suitable today? The plan is to flex this ideology onto other judgement-call type
+articles of clothing. COMING SOON: Shorts, Beanies and Umbrellas.
+
+# TECHNOLOGIES USED
+
+This application was made using REACT and fetching data from the openweathermap.org open API.
+
+# APPROACH
+
+The application first converts city locations into geographical coordinates to get an exact location. With that location,
+the weather for that area is retreived and calculated to decide a suitable outfit quickly. Data used regards, but is not limited to:
+high temperature, low temperature, feels like temperature, humidity, cloudiness and wind speed.
+
+# UNSOLVED PROBLEMS
+
+Installing a useEffect hook created difficulty to present the user with a friendly, inviting landing page.
+
 # COLOR PALATTES
 
 Green/Grey
