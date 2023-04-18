@@ -24,16 +24,21 @@ export default function Form (props) {
     return (
         <>
         <div className="form">
-        <form onSubmit={handleSubmit}>
+          <form onSubmit={handleSubmit}>
             <input
               type="text"
               onChange={handleChange}
               value={formData.searchLoc}
               name="searchLoc"
+              placeholder="City, Country"
+              className="textbox"
             />
-            <input type="submit" value="Submit Location" />
+            <input type="submit" className="button"/>
           </form>
 
+          <div className="form-text">
+            <h6>Enter your current city in the format prompted above and find out if it's fit for sweaters out there!</h6>
+          </div>
 
             {/* <input type="text">Zip Code/City</input>
             <input type="submit" value="Search" /> */}

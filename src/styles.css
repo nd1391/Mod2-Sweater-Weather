@@ -5,5 +5,58 @@
 
 body {
   margin: 0;
-  font-family:Arial, Helvetica, sans-serif
+  font-family:Arial, Helvetica, sans-serif;
+  background-color:#DBD3D8
+  
+}
+
+.banner-top {
+  color: #6F323C
+
+}
+
+.banner-bot {
+  color: #2E5E4E
+}
+
+.banner {
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.form {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+}
+
+.sweater {
+  text-align: center;
+  display: flex;
+  justify-self: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 30px;
+}
+
+.loading-header {
+  color: #2E5E4E
+}
+
+.loading-body {
+  width: 425px;
+  align-self: center;
+  text-align: justify;
+  margin: 30px;
+}
+
+input[type=submit] {
+  background-image: url(/public/sweater-img1.jpg)
+}
+
+.form-text {
+  width: 200px;
 }
