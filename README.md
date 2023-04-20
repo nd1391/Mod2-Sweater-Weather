@@ -1,5 +1,9 @@
 # SWEATER WEATHER README
 
+[Netlify Live Link](https://644178935796761a0de36ef3--sage-sunburst-54c5c1.netlify.app/)
+[Github Pages Live Link](https://nd1391.github.io/Mod2-Sweater-Weather/)
+[Github](https://github.com/nd1391/Mod2-Sweater-Weather)
+
 # BIO
 
 How often do we check the weather to sort our outfit for the day? Is it too cold? Is it too hot?
