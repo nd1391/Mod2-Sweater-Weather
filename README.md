@@ -18,7 +18,9 @@ articles of clothing. COMING SOON: Shorts, Beanies and Umbrellas.
 
 # TECHNOLOGIES USED
 
-This application was made using REACT and fetching data from the openweathermap.org open API.
+This application was made using REACT and fetching data from the openweathermap.org open API. First it's used to convert city names into
+geographical coordinates, then it's used to take those coordinates and provide weather on that area.
+NPM Package Temperature was used to convert Kelvin temperatures to more manageable datatypes of celcius and fahrenheit
 
 # APPROACH
 
