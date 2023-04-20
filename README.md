@@ -24,6 +24,13 @@ high temperature, low temperature, feels like temperature, humidity, cloudiness 
 
 Installing a useEffect hook created difficulty to present the user with a friendly, inviting landing page.
 
+# STRETCH GOALS (unreached)
+
+1. Expand the idea for other judgement-call articles such as shorts, beanies, and umbrellas.
+2. Give more context to the yes or no, with an added brief response of why - too cold? too hot? not windy enough? insert funny response here
+3. Enhance styling.
+4. Enhance the algorithm to make use of more data for increased accuracy of yes/no. Since elements like wind and humidity are measured by different metrics, incorporating all of these data points will be tricky.
+
 # COLOR PALATTES
 
 Green/Grey

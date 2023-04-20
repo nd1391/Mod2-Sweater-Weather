@@ -8,6 +8,7 @@ function App() {
 
   const apiKey = process.env.REACT_APP_API_KEY1;
   const apiKey2 = process.env.REACT_APP_API_KEY2;
+  const apiKey3 = process.env.REACT_APP_API_KEY3;
 
   const [location, setLocation] = useState();
   const [temperature, setTemperature] = useState()

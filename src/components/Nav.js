@@ -4,7 +4,7 @@ export default function Nav(props) {
     return (
         <>
         <div className="navbar">
-            This is my nav bar
+            <ul className=""></ul>
         </div>
         </>
     )

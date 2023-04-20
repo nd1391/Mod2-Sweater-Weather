@@ -37,7 +37,7 @@ export default function Form (props) {
           </form>
 
           <div className="form-text">
-            <h6>Enter your current city in the format prompted above and find out if it's fit for sweaters out there!</h6>
+            <h6>Enter your current city in the format prompted above and find out if you should slip into a sweater fit.</h6>
           </div>
 
             {/* <input type="text">Zip Code/City</input>
